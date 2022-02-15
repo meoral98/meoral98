@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Emre @meoral98
+- 👀 I’m interested in Python, C and C# languages
+- 🌱 I’m currently learning C language
